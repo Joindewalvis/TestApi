@@ -1,4 +1,4 @@
-# Test1 OpenAPI Specification
+# Test1 OpenAPI Specification.
 [![Build Status](https://travis-ci.org/Joindewalvis/TestApi.svg?branch=master)](https://travis-ci.org/Joindewalvis/TestApi)
 
 ## Steps to finish
