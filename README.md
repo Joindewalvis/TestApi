@@ -1,4 +1,4 @@
-# Test1 OpenAPI Specification.
+# Test1 OpenAPI Specification
 [![Build Status](https://travis-ci.org/Joindewalvis/TestApi.svg?branch=master)](https://travis-ci.org/Joindewalvis/TestApi)
 
 ## Steps to finish
@@ -17,7 +17,6 @@
 ## Links
 
 - Documentation(ReDoc): https://joindewalvis.github.io/TestApi/
-- SwaggerUI: https://joindewalvis.github.io/TestApi/swagger-ui/
 - Look full spec:
     + JSON https://joindewalvis.github.io/TestApi/swagger.json
     + YAML https://joindewalvis.github.io/TestApi/swagger.yaml

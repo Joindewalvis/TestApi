@@ -5,6 +5,6 @@
     "repo": "Joindewalvis/TestApi",
     "splitSpec": false,
     "samples": true,
-    "installSwaggerUI": true
+    "installSwaggerUI": false
   }
 }
