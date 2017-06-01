@@ -31,7 +31,7 @@ info:
   # It can be any string but it is better to use semantic versioning: http://semver.org/
   # Warning: OpenAPI require version to be string, but without quotation YAML can recognize it as number.
 
-  title: Example.commm # Replace with your API title
+  title: Example.com # Replace with your API title
   # Keep it simple. Don't add "API" or verison at the end of the string.
 
   termsOfService: 'https://example.com/terms/' # [Optional] Replace with an URL to your ToS
